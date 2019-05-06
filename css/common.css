@@ -1,6 +1,9 @@
-div,ul,li,span,p,ol,dt,dd,dl{
+div,ul,li,span,p,ol,dt,dd,dl,input,img{
 	margin:0;
 	padding:0;
+}
+img{
+	display: block;
 }
 ul,li{
 	list-style: none;
